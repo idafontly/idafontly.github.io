@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idafontly.github.io/sitemap.idafontly.gz
+Sitemap: https://idafontly.github.io/app/sitemap.idafontly.gz
+Sitemap: https://idafontly.github.io/assets/sitemap.idafontly.gz
+Sitemap: https://idafontly.github.io/css/sitemap.idafontly.gz
+Sitemap: https://idafontly.github.io/data/sitemap.idafontly.gz
+Sitemap: https://idafontly.github.io/includes/sitemap.idafontly.gz
+Sitemap: https://idafontly.github.io/item/sitemap.idafontly.gz
+Sitemap: https://idafontly.github.io/src/sitemap.idafontly.gz
